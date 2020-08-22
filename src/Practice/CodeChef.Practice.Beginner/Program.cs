@@ -9,7 +9,13 @@ namespace CodeChef.Practice.Beginner
             Console.WriteLine("Code chef : Practice -> Beginner");
 
             //1. ATM
-            ATM.ATM_Main();
+            //ATM.ATM_Main();
+
+            //2.AddTwoNumbers
+            //AddTwoNumbers.AddTwoNumbers_Main();
+
+            //3.ChefWarsReturnOfTheJedi
+            ChefWarsReturnOfTheJedi.ChefWarsReturnOfTheJedi_Main();
         }
     }
 }
