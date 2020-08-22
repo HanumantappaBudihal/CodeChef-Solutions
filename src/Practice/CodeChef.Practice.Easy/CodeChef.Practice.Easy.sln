@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef.Practice.Easy", "CodeChef.Practice.Easy.csproj", "{2EBAF1FD-6B65-45CC-95E4-82F8628305DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBAF1FD-6B65-45CC-95E4-82F8628305DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBAF1FD-6B65-45CC-95E4-82F8628305DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBAF1FD-6B65-45CC-95E4-82F8628305DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBAF1FD-6B65-45CC-95E4-82F8628305DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F8C3DA9-2792-4F79-90CA-6243BFE36362}
+	EndGlobalSection
+EndGlobal
