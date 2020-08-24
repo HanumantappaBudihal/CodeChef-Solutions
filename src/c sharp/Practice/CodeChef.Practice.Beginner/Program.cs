@@ -18,8 +18,10 @@ namespace CodeChef.Practice.Beginner
             //ChefWarsReturnOfTheJedi.ChefWarsReturnOfTheJedi_Main();
 
             //4.ForgottenLanguage
-            ForgottenLanguage.ForgottenLanguage_Main(args);
+            //ForgottenLanguage.ForgottenLanguage_Main(args);
 
+            //5.MutatedMinions
+            MutatedMinions.MutatedMinions_Main(args);
         }
     }
 }
