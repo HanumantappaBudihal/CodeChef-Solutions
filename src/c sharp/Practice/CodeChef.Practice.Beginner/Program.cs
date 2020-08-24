@@ -2,9 +2,11 @@
 using CodeChef.Practice.Beginner.Problems;
 namespace CodeChef.Practice.Beginner
 {
-    class Program
+    class GradeTheSteel
     {
-        static void Main(string[] args)
+        //Problem statement : https://www.codechef.com/problems/FLOW014
+        //Solution : https://www.codechef.com/viewsolution/37134866
+        static void GradeTheSteel_Main(string[] args)
         {
             Console.WriteLine("Code chef : Practice -> Beginner");
 
@@ -24,7 +26,10 @@ namespace CodeChef.Practice.Beginner
             //MutatedMinions.MutatedMinions_Main(args);
 
             //6.ChefAndRainbowArray
-            ChefAndRainbowArray.ChefAndRainbowArray_Main();
+            //ChefAndRainbowArray.ChefAndRainbowArray_Main();
+
+            //7.GradeTheSteel
+            GradeTheSteel.GradeTheSteel_Main(args);
         }
     }
 }
