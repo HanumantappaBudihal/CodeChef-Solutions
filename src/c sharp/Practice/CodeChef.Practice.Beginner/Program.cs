@@ -21,7 +21,10 @@ namespace CodeChef.Practice.Beginner
             //ForgottenLanguage.ForgottenLanguage_Main(args);
 
             //5.MutatedMinions
-            MutatedMinions.MutatedMinions_Main(args);
+            //MutatedMinions.MutatedMinions_Main(args);
+
+            //6.ChefAndRainbowArray
+            ChefAndRainbowArray.ChefAndRainbowArray_Main();
         }
     }
 }
